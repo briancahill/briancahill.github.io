@@ -3,13 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Fun facts
+Some of my travels:
+Trip to Guangzhou/Hong Kong/Macau - Spring 17
+Roadtrip through Canada - Fall 16
+Extended stay in Europe - Spring 16
+Amtrak around the US - Summer 15
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Hobbies:
+Photography, learning Spanish, bowling, exploring music
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[briancahill123@gmail.com](mailto:briancahill123@gmail.com)
